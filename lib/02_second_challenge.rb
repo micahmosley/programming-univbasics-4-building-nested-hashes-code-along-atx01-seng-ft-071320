@@ -10,7 +10,7 @@ def second_challenge
       :patriarch=> {},
       :matriarch=> {},
       :heroine=> {},
-      :heroine_friends=> [filter_parameter_logging]
+      :heroine_friends=> []
       }
     
   }
